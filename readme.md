@@ -1,5 +1,14 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > This is a list of must-watch videos devoted to JavaScript 
+## Unsorted (Not all JS)
+1. [Philip Roberts: **What the heck is the event loop anyway?** ( 2014 )](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be) [26:52]
+1. [Dan Abramov: **React Hooks** ( 2018 )](https://youtu.be/dpw9EHDh2bM?t=690) [~47:00]
+1. [Anjana Vakil: **Learning Functional Programming with JavaScript** ( 2016 )](https://www.youtube.com/watch?v=e-5obm1G_FY&feature=youtu.be) [29:56]
+1. [Mattias Petter Johansson: **Iterators in JavaScript using Quokka.js** ( 2018 )](https://www.youtube.com/watch?v=W4brAobC2Hc&list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm) [21:06]
+1. [Linus Torvalds: **Linus Torvalds on git** ( 2009 )](https://www.youtube.com/watch?v=4XpnKHJAok8) [1:10:14]
+1. [Declarative Programming in Rust](https://www.youtube.com/watch?v=Des3zZuTbhk) [32:44]
+1. [Gary Bernhardt: **The Birth & Death of JavaScript**( 2014 )](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [29:23]
+1. [Bret Victor: **Inventing on Principle**( 2012 )](https://www.youtube.com/watch?v=PUv66718DII) [54:19]
 
 ## 2019
 1. [Rich Harris: **Rethinking reactivity**](https://www.youtube.com/watch?v=AdNJ3fydeao) [36:44]
@@ -38,8 +47,6 @@
 1. [Kris Kowal: **A General Theory of Reactivity**](https://www.youtube.com/watch?v=2p51PE1MZ8U) [35:38]
 
 
-
-
 ## 2014
 1. [Ilya Grigorik: **Website Performance Optimization** (Udacity course)](https://www.udacity.com/course/ud884) [1:13:57]
 1. [Mark DiMarco: **User Interface Algorithms**](https://www.youtube.com/watch?v=90NsjKvz9Ns&index=2&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN) [27:41]
@@ -59,49 +66,3 @@
 1. [David Nolen: **Immutability: Putting The Dream Machine To Work**](https://www.youtube.com/watch?v=SiFwRtCnxv4) [22:05]
 1. [Pete Hunt: **OSCON 2014: How Instagram.com Works**](https://www.youtube.com/watch?v=VkTCL6Nqm6Y) [40:18]
 
-## 2013
-1. [Nat Duca, Tom Wiltzius: **Jank Free: Chrome Rendering Performance**](https://www.youtube.com/watch?v=n8ep4leoN9A&feature=youtu.be) [40:53]
-1. [Ilya Grigorik: **Automating Performance Best Practices with PageSpeed**](https://www.youtube.com/watch?v=uR5urTx8S4E&feature=youtu.be) [46:58]
-1. [Eric Bidelman: **Web Components**](https://www.youtube.com/watch?v=fqULJBBEVQE&feature=youtu.be) [32:39]
-1. [Alex Komoroske, Matthew McNulty: **Web Components in Action**](https://www.youtube.com/watch?v=0g0oOOT86NY&feature=youtu.be) [41:28]
-1. [Paul Lewis, Peter Beverloo: **Device Agnostic Development**](https://www.youtube.com/watch?v=055ekKZk7mc&feature=youtu.be)  [40:44]
-1. [John McCutchan, Loreena Lee: **A Trip Down Memory Lane with Gmail and DevTools**](https://www.youtube.com/watch?v=x9Jlu_h_Lyw&feature=youtu.be) [42:09]
-1. [Joe Marini: **Upgrading to a Chrome Packaged App**](https://www.youtube.com/watch?v=e0W2szZ2qhg&feature=youtu.be) [43:49]
-1. [Pete Hunt: **React: Rethinking best practices**](https://www.youtube.com/watch?v=x7cQ3mrcKaY) [29:31]
-1. [Martin Kleppe: **1024+ Seconds of JS Wizardry**](https://www.youtube.com/watch?v=RTxtiLp1C8Y) [31:01]
-1. [Yehuda Katz: **A tale of two MVC's**](https://www.youtube.com/watch?v=s1dhXamEAKQ) [31:06]
-1. [Vyacheslav Egorov: **Performance and Benchmarking**](https://www.youtube.com/watch?v=65-RbBwZQdU) [25:41]
-1. [Brendan Eich: **JavaScript at 18: Legal to Gamble**](https://www.youtube.com/watch?v=qrf9ONmtXbM) [25:44]
-1. [Mathias Bynens: **JavaScript ♥ Unicode**](https://vimeo.com/76597193) [26:12]
-1. [Mark Trostler: **Testable JavaScript - Architecting Your Application for Testability**](https://www.youtube.com/watch?v=JjqKQ8ezwKQ) [45:35]
-
-## 2012
-1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://vimeo.com/45140516) [32:57]
-1. Addy Osmani: **Scaling Your JavaScript Applications**
-	* [Part 1](https://youtu.be/2g8AceFb0is) [22:37]
-	* [Part 2](https://youtu.be/AlJdI6yNo4U) [15:41]
-	* [Part 3](https://youtu.be/LZK-ObWu_5I) [33:31]
-1. [John-David Dalton: **Lo-Dash**](https://www.youtube.com/watch?v=dpPy4f_SeEk) [25:08]
-1. [Gary Bernhardt: **WAT**](https://www.destroyallsoftware.com/talks/wat) [4:17]
-1. [Angus Croll: **Break all the rules**](https://www.youtube.com/watch?v=MFtijdklZDo) [31:29]
-1. [Nicholas Zakas: **Maintainable JavaScript**](https://www.youtube.com/watch?v=c-kav7Tf834) [47:04]
-1. [Douglas Crockford: **Principles of Security**](https://www.youtube.com/watch?v=ZVCPZTTlhiM) [59:52]
-1. [Brian Leroux: **WTFJS**](https://www.youtube.com/watch?v=et8xNAc2ic8) [18:26]
-
-## 2011
-1. [Douglas Crockford: **Level 7: ECMAScript 5: The New Parts**](https://www.youtube.com/watch?v=UTEqr0IlFKY) [57:18]
-1. [Douglas Crockford: **Section 8: Programming Style and Your Brain**](https://www.youtube.com/watch?v=taaEzHI9xyY) [1:06:45]
-1. [Ryan Dahl: **Introduction to Node.js**](https://www.youtube.com/watch?v=jo_B4LTHi3I) [1:06:33]
-1. [Alex Russell: **Learning to Love JavaScript**](https://www.youtube.com/watch?v=seX7jYI96GE) [1:03:25]
-
-## 2010
-1. [Douglas Crockford: **Volume One: The Early Years**](https://www.youtube.com/watch?v=JxAXlJEmNMg) [1:42:08]
-1. [Douglas Crockford: **Chapter 2: And Then There Was JavaScript**](https://www.youtube.com/watch?v=RO1Wnu-xKoY) [1:30:22]
-1. [Douglas Crockford: **Act III: Function the Ultimate**](https://www.youtube.com/watch?v=ya4UHuXNygM) [1:13:28]
-1. [Douglas Crockford: **Episode IV: The Metamorphosis of Ajax**](https://www.youtube.com/watch?v=Fv9qT9joc0M) [1:33:54]
-1. [Douglas Crockford: **Part 5: The End of All Things**](https://www.youtube.com/watch?v=47Ceot8yqeI) [1:24:42]
-1. [Douglas Crockford: **Scene 6: Loopage**](https://www.youtube.com/watch?v=QgwSUtYSUqA) [51:52]
-
-## 2009
-1. [Nicholas Zakas: **Scalable JavaScript Application Architecture**](https://www.youtube.com/watch?v=vXjVFPosQHw) [52:22]
-2. [Douglas Crockford: **JavaScript: The Good Parts**](https://www.youtube.com/watch?v=hQVTIJBZook) [1:03:47]
